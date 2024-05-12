@@ -662,7 +662,6 @@ pre code {
 }
 
 
-
 @keyframes typing {
   from { width: 0; } /* Commencer sans largeur (effet de taper) */
   to { width: 100%; } /* Terminer avec toute la largeur */
