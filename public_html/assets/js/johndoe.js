@@ -57,7 +57,7 @@ $(window).on("load", function() {
 
 document.addEventListener('DOMContentLoaded',function(event){
   // array with texts to type in typewriter
-  var dataText = [ "Third year IT student", "Software Developper"];
+  var dataText = [ "Third year IT student", "Software Developer"];
   
   // type one text in the typwriter
   // keeps calling itself until the text is finished
